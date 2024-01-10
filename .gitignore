@@ -1,6 +1,7 @@
 .gitignore
 /.quarto/
 .Rproj.user
+.DS_Store
 
 # History files
 .Rhistory
